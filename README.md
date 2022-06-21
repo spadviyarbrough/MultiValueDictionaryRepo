@@ -1,4 +1,4 @@
-Steps to run the solution:
+Steps to run the MultiValueDictionary application:
 1. Map the solution locally for example:source\repos\MultiValueDictionaryRepo
 2. Build the solution
 3. Find path which contains MultiValueDictionary.exe for example :source\repos\MultiValueDictionaryRepo\MultiValueDictionary\bin\Debug\netcoreapp3.1 (Note:bin folder can be found in solution folder).
